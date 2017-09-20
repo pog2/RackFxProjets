@@ -1,0 +1,4 @@
+﻿  LINK : program database C:\Users\Pierre\AppData\Roaming\RackAFX\RackAFXProjects\DDLModule\DDLModule.pdb missing; performing full link
+     Creating library C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\DDLModule.lib and object C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\DDLModule.exp
+  DDLModule.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\DDLModule.dll
+  DDLModule.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\RackAFXProjects\DDLModule\DDLModule.pdb (Full PDB)

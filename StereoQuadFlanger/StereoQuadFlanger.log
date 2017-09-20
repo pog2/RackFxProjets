@@ -1,0 +1,12 @@
+﻿  ModDelayModule.cpp
+  WTOscilltor.cpp
+  DDLModule.cpp
+  StereoQuadFlanger.cpp
+  RackAFXDLL.cpp
+  pluginobjects.cpp
+  plugin.cpp
+  Generating Code...
+c:\users\pierre\appdata\roaming\rackafx\rackafxprojects\stereoquadflanger\moddelaymodule.cpp(145): warning C4715: 'CModDelayModule::calculateDelayOffset': not all control paths return a value
+     Creating library C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\StereoQuadFlanger.lib and object C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\StereoQuadFlanger.exp
+  StereoQuadFlanger.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\StereoQuadFlanger.dll
+  StereoQuadFlanger.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\RackAFXProjects\StereoQuadFlanger\StereoQuadFlanger.pdb (Full PDB)

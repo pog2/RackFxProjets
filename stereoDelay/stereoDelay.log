@@ -1,0 +1,9 @@
+﻿  DDLModule.cpp
+  stereoDelay.cpp
+  RackAFXDLL.cpp
+  pluginobjects.cpp
+  plugin.cpp
+  Generating Code...
+     Creating library C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\stereoDelay.lib and object C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\stereoDelay.exp
+  stereoDelay.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\stereoDelay.dll
+  stereoDelay.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\RackAFXProjects\stereoDelay\stereoDelay.pdb (Full PDB)

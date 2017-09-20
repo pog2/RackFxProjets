@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9EEFB497-2B13-4016-8189-3F47360098C0}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{22DD2FBB-6FD5-4531-B3A2-1F7F7242F09C}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+     <Filter Include="Resources">
+      <UniqueIdentifier>{B0DFCFFC-6E1E-43C1-A2EB-8D8179A01B93}</UniqueIdentifier>
+    </Filter>   
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RackAFXDLL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleHPF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pluginconstants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RackAFXDLL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleHPF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+  </ItemGroup>
+   <ItemGroup>
+      <Image Include="resources\knobvst.png">
+        <Filter>Resources</Filter>
+      </Image>
+    </ItemGroup>
+    <ItemGroup>
+      <ResourceCompile Include="SimpleHPF.rc">
+        <Filter>Resources</Filter>
+      </ResourceCompile>
+    </ItemGroup>
+    <ItemGroup>
+      <None Include="RackAFX.uidesc">
+        <Filter>Resources</Filter>
+      </None>
+  </ItemGroup>
+</Project>
+

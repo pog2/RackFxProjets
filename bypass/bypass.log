@@ -1,0 +1,8 @@
+﻿  bypass.cpp
+  RackAFXDLL.cpp
+  pluginobjects.cpp
+  plugin.cpp
+  Generating Code...
+     Creating library C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\bypass.lib and object C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\bypass.exp
+  bypass.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\bypass.dll
+  bypass.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\RackAFXProjects\bypass\bypass.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿  FeedBackFilter.cpp
+  RackAFXDLL.cpp
+  pluginobjects.cpp
+  plugin.cpp
+  Generating Code...
+     Creating library C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\FeedBackFilter.lib and object C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\FeedBackFilter.exp
+  FeedBackFilter.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\FeedBackFilter.dll
+  FeedBackFilter.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\RackAFXProjects\FeedBackFilter\FeedBackFilter.pdb (Full PDB)

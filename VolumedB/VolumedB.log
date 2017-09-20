@@ -1,0 +1,9 @@
+﻿  VolumedB.cpp
+  Generating Code...
+  Compiling...
+  RackAFXDLL.cpp
+  Generating Code...
+  LINK : program database C:\Users\Pierre\AppData\Roaming\RackAFX\RackAFXProjects\VolumedB\VolumedB.pdb missing; performing full link
+     Creating library C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\VolumedB.lib and object C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\VolumedB.exp
+  VolumedB.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\VolumedB.dll
+  VolumedB.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\RackAFXProjects\VolumedB\VolumedB.pdb (Full PDB)

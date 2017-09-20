@@ -1,0 +1,12 @@
+﻿  WTOscilltor.cpp
+  DDLModule.cpp
+  ModDelayModule.cpp
+  StereoLCRChorus.cpp
+  RackAFXDLL.cpp
+  pluginobjects.cpp
+  plugin.cpp
+  Generating Code...
+c:\users\pierre\appdata\roaming\rackafx\rackafxprojects\stereolcrchorus\moddelaymodule.cpp(145): warning C4715: 'CModDelayModule::calculateDelayOffset': not all control paths return a value
+     Creating library C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\StereoLCRChorus.lib and object C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\StereoLCRChorus.exp
+  StereoLCRChorus.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\StereoLCRChorus.dll
+  StereoLCRChorus.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\RackAFXProjects\StereoLCRChorus\StereoLCRChorus.pdb (Full PDB)

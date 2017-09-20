@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1326A436-D3CA-4E49-A137-6E85544B4A95}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3626B9C5-BED6-417B-947D-9027DC12922A}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+     <Filter Include="Resources">
+      <UniqueIdentifier>{60F72F96-47DF-44BC-809B-616B7B7641C1}</UniqueIdentifier>
+    </Filter>   
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RackAFXDLL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VolumedB.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pluginconstants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RackAFXDLL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VolumedB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+  </ItemGroup>
+   <ItemGroup>
+      <Image Include="resources\knobvst.png">
+        <Filter>Resources</Filter>
+      </Image>
+    </ItemGroup>
+    <ItemGroup>
+      <ResourceCompile Include="VolumedB.rc">
+        <Filter>Resources</Filter>
+      </ResourceCompile>
+    </ItemGroup>
+    <ItemGroup>
+      <None Include="RackAFX.uidesc">
+        <Filter>Resources</Filter>
+      </None>
+  </ItemGroup>
+</Project>
+

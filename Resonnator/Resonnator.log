@@ -1,0 +1,8 @@
+﻿  Resonnator.cpp
+  RackAFXDLL.cpp
+  pluginobjects.cpp
+  plugin.cpp
+  Generating Code...
+     Creating library C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\Resonnator.lib and object C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\Resonnator.exp
+  Resonnator.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\PlugIns\Resonnator.dll
+  Resonnator.vcxproj -> C:\Users\Pierre\AppData\Roaming\RackAFX\RackAFXProjects\Resonnator\Resonnator.pdb (Full PDB)
